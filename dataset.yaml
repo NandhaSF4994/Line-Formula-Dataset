@@ -6,4 +6,4 @@ is_coco: False
 
 nc: 2   # number of classes
 
-names: ['Line','Formula']# class names 
+names: ['Underline','Strikeout','Formula']# class names 
