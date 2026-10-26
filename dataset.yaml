@@ -4,6 +4,6 @@ val: ../images/val
 # whether it is coco dataset, only coco dataset should be set to True.
 is_coco: False
 
-nc: 1  # number of classes
+nc: 3   # number of classes
 
-names: ['line']# class names 
+names: ['Underline','Strikeout','UnderlineStrikethrough']# class names 
