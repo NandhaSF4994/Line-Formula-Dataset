@@ -6,4 +6,4 @@ is_coco: False
 
 nc: 3   # number of classes
 
-names: ['Underline','Strikeout','UnderlineStrikethrough']# class names 
+names: ['Underline','Strikeout','UnderlineStrikeout']# class names 
